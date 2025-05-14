@@ -1,2 +1,2 @@
 #!/bin/bash
-psql -U postgres -d world -f /docker-entrypoint-initdb.d/world_dump.sql
+psql -U postgres -d world -f /dumps/World.sql
