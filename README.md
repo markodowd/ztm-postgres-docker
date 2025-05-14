@@ -1,6 +1,6 @@
 # ZTM Postgres Docker
 
-Docker container seeded with the SQL dumps found in (Complete SQL + Databases Bootcamp: Zero to Mastery)[https://zerotomastery.io/courses/sql-bootcamp/]
+Docker container seeded with the SQL dumps found in [Complete SQL + Databases Bootcamp: Zero to Mastery](https://zerotomastery.io/courses/sql-bootcamp/)
 
 # Setup
 
@@ -35,4 +35,10 @@ To connect into the docker container run
 `docker exec -it ztm-postgres psql -U postgres`
 
 This places you inside the container where you can now execute SQL commands and follow along with the course!
+
+## Screenshots
+
+![Step 1](images/1.png)
+![Step 2](images/2.png)
+![Step 3](images/3.png)
 
